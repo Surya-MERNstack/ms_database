@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "64842cb48a2ea11ec2b6a797",
+    "name": "Suresh",
+    "mentor_name": "Mani",
+    "__v": 0
+  },
+  {
+    "_id": "64842d266ba3bccc1f020dfe",
+    "name": "Gokul",
+    "mentor_name": "Mani",
+    "__v": 0
+  },
+  {
+    "_id": "64842d336ba3bccc1f020e00",
+    "name": "Sam",
+    "mentor_name": "Mani",
+    "__v": 0
+  },
+  {
+    "_id": "64842d3a6ba3bccc1f020e02",
+    "name": "Chandhru",
+    "mentor_name": "Mani",
+    "__v": 0
+  },
+  {
+    "_id": "64842d566ba3bccc1f020e04",
+    "name": "Surya",
+    "mentor_name": "James",
+    "__v": 0
+  },
+  {
+    "_id": "64842d5f6ba3bccc1f020e06",
+    "name": "Sara",
+    "mentor_name": "James",
+    "__v": 0
+  },
+  {
+    "_id": "64842d696ba3bccc1f020e08",
+    "name": "Siva",
+    "mentor_name": "James",
+    "__v": 0
+  },
+  {
+    "_id": "64842d7f6ba3bccc1f020e0a",
+    "name": "Nisanth",
+    "mentor_name": "Tom",
+    "__v": 0
+  },
+  {
+    "_id": "64842d8e6ba3bccc1f020e0c",
+    "name": "Dheena",
+    "mentor_name": "Tom",
+    "__v": 0
+  },
+  {
+    "_id": "64842da26ba3bccc1f020e0e",
+    "name": "Jagan",
+    "mentor_name": "Peter",
+    "__v": 0
+  },
+[
+  {
+    "_id": "648436b790016af96d968c51",
+    "name": "Mani",
+    "subject": "MernStack",
+    "student_id": [
+      "64842cb48a2ea11ec2b6a797",
+      "64842d266ba3bccc1f020dfe",
+      "64842d336ba3bccc1f020e00",
+      "64842d3a6ba3bccc1f020e02"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "648441c157fe3e120ddccc34",
+    "name": "James",
+    "subject": "Aws Cloud",
+    "student_id": [
+      "64842d566ba3bccc1f020e04",
+      "64842d5f6ba3bccc1f020e06",
+      "64842d696ba3bccc1f020e08"
+    ]
+  },
+  {
+    "_id": "6484428157fe3e120ddccc37",
+    "name": "Tom",
+    "subject": "UI/UX",
+    "student_id": ["64842d8e6ba3bccc1f020e0c", "64842d7f6ba3bccc1f020e0a"]
+  }
+]
+]
